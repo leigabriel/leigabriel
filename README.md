@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/dc/4a/cf/dc4acf1074e02c5e7f687ba99efb360c.gif)" alt="Coding GIF" />
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Art Gallery**
