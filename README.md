@@ -7,11 +7,11 @@ I enjoy creating clean and functional designs — in both visuals and code.
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://facebook.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="40" title="Facebook"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" title="Instagram"/></a>
-  <a href="https://tiktok.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782345.png" width="40" title="TikTok"/></a>
-  <a href="https://pinterest.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968795.png" width="40" title="Pinterest"/></a>
-  <a href="https://discord.com/users/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="40" title="Discord"/></a>
+  <a href="https://facebook.com/malibiranlei" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="40" title="Facebook"/></a>
+  <a href="https://instagram.com/leigxbriel" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" title="Instagram"/></a>
+  <a href="https://tiktok.com/lei.js" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782345.png" width="40" title="TikTok"/></a>
+  <a href="https://pinterest.com/leigabriel" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968795.png" width="40" title="Pinterest"/></a>
+  <a href="https://discord.com/加布里埃尔/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="40" title="Discord"/></a>
 </p>
 
 ---
