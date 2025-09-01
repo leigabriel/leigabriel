@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Lei Gabriel 👋
 
-<!--
-**leigabriel/leigabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graphic Designer | UI Designer | Frontend Developer**  
+I enjoy creating clean and functional designs — in both visuals and code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://facebook.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="40" title="Facebook"/></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" title="Instagram"/></a>
+  <a href="https://tiktok.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/4782/4782345.png" width="40" title="TikTok"/></a>
+  <a href="https://pinterest.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968795.png" width="40" title="Pinterest"/></a>
+  <a href="https://discord.com/users/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" width="40" title="Discord"/></a>
+</p>
+
+---
+
+### 🛠️ Tools & Tech
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="40" title="HTML5"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="40" title="CSS3"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40" title="JavaScript"/>
+  <img src="https://img.icons8.com/?size=96&id=4PiNHtUJVbLs&format=png" width="40" title="Tailwind CSS"/>
+</p>
+
+---
+
+### 📖 Currently Learning
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" width="40" title="React.js"/>
+</p>
+
+---
+
+✨ *Thanks for stopping by my profile!*  
