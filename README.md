@@ -34,3 +34,7 @@ I enjoy creating clean and functional designs — in both visuals and code.
 ---
 
 ✨ *Thanks for stopping by my profile!*  
+
+<p align="right">
+  <img src="https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif" width="200" height="200" alt="Banner GIF"/>
+</p>
