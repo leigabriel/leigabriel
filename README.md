@@ -21,7 +21,7 @@ Multidisciplinary designer & developer focused on minimal, modern, and purposefu
 
 ---
 
-## 🛠️ My Toolbox
+## 🛠️ My Tool
 
 <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" width="30" title="HTML5"/> HTML &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="30" title="CSS3"/> CSS &nbsp;
