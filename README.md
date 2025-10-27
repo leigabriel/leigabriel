@@ -11,14 +11,14 @@ Multidisciplinary designer and developer focused on **minimal, modern, and purpo
 ---
 
 ## Connect with Me  
-- **Facebook:** [malibiranlei](https://facebook.com/malibiranlei)  
-- **Instagram:** [@leigxbriel](https://instagram.com/leigxbriel)  
-- **TikTok:** [@lei.js](https://tiktok.com/@leigxbriel)  
+**Facebook:** [malibiranlei](https://facebook.com/malibiranlei)  
+**Instagram:** [@leigxbriel](https://instagram.com/leigxbriel)  
+**TikTok:** [@leigxbriel](https://tiktok.com/@leigxbriel)  
 
 ---
 
 ## Skills & Tools  
-**Languages & Core:** 
+**Languages & Core:** <br>
 `HTML5` · `CSS3` · `JavaScript`  
 
 **Frameworks / Libraries:**  
@@ -34,12 +34,12 @@ Note: not totally learn
 ---
 
 ## Featured Projects  
-- **Portfolio:** Personal showcase and design experiments.  
+**Portfolio:** Personal showcase and design experiments.  
 
 ---
 
 ## Typography & Style  
-**Typeface:** FiraCode Mono 
+**Typeface:** FiraCode Mono <br>
 **Style:** Minimal · Clean · Modern
 
 ---
