@@ -13,17 +13,18 @@ Multidisciplinary designer and developer focused on **minimal, modern, and purpo
 ## Connect with Me  
 - **Facebook:** [malibiranlei](https://facebook.com/malibiranlei)  
 - **Instagram:** [@leigxbriel](https://instagram.com/leigxbriel)  
-- **TikTok:** [@lei.js](https://tiktok.com/@lei.js)  
-- **Pinterest:** [leigxbriel](https://pinterest.com/leigxbriel)  
+- **TikTok:** [@lei.js](https://tiktok.com/@leigxbriel)  
 
 ---
 
 ## Skills & Tools  
-**Languages & Core:**  
+**Languages & Core:** 
 `HTML5` · `CSS3` · `JavaScript`  
 
 **Frameworks / Libraries:**  
 `Tailwind CSS`
+
+Note: not totally learn
 
 ---
 
@@ -38,7 +39,7 @@ Multidisciplinary designer and developer focused on **minimal, modern, and purpo
 ---
 
 ## Typography & Style  
-**Typeface:** Inter · Montserrat · SF Pro  
+**Typeface:** FiraCode Mono 
 **Style:** Minimal · Clean · Modern
 
 ---
