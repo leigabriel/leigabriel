@@ -16,15 +16,19 @@ Multidisciplinary designer and developer focused on **minimal, modern, and purpo
 **TikTok:** [@leigxbriel](https://tiktok.com/@leigxbriel)  
 
 ---
-
 ## Skills & Tools  
-**Languages & Core:** <br>
-`HTML5` · `CSS3` · `JavaScript`  
+
+**Languages & Core:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>  
 
 **Frameworks / Libraries:**  
-`Tailwind CSS`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+<img src="https://lavalust.netlify.app/_images/logo.png" width="20"/>
 
-Note: not totally learn
+> *Note: Still learning*
 
 ---
 
@@ -33,8 +37,13 @@ Note: not totally learn
 
 ---
 
-## Featured Projects  
-**Portfolio:** Personal showcase and design experiments.  
+## Featured Projects
+
+**[Portfolio](https://leigabriel.vercel.app/)**  
+Personal showcase and design experiments.  
+
+**[Dental Booking Appointment System](https://github.com/leigabriel/dental-booking-appointment-system)**  
+A web-based system for managing dental appointments efficiently.   
 
 ---
 
