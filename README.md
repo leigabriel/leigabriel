@@ -47,11 +47,5 @@ A web-based system for managing dental appointments efficiently.
 
 ---
 
-## Typography & Style  
-**Typeface:** FiraCode Mono <br>
-**Style:** Minimal · Clean · Modern
-
----
-
 ### Thanks for stopping by my profile!  
 Feel free to reach out or just say hi 👋
