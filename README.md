@@ -1,51 +1,11 @@
-# 👋 Hi, I'm Lei Gabriel
+<img src="https://i.pinimg.com/736x/e8/b7/42/e8b74238880bd9d67ec728cff79415e0.jpg" 
+     style="width: 100%; height: 200px; object-fit: cover; display: block;"/>
 
-**Graphic Designer · UI Designer · Frontend Developer**  
-_Bringing ideas to life through clean visuals & smart code._
+### Hi there 👋
 
----
+I'm a **graphic designer, ui designer, and frontend developer**. Creating minimal, modern digital experiences. Interested in about clean design and interactive interfaces. Currently learning **React.js** to build dynamic web applications.  
 
-## About Me  
-Multidisciplinary designer and developer focused on **minimal, modern, and purposeful digital experiences.**
+**Tech & tools:** html, css, javascript, tailwindcss, react, lavalust <br>
+--- still learning
 
----
-
-## Connect with Me  
-**Facebook:** [malibiranlei](https://facebook.com/malibiranlei)  
-**Instagram:** [@leigxbriel](https://instagram.com/leigxbriel)  
-**TikTok:** [@leigxbriel](https://tiktok.com/@leigxbriel)  
-
----
-## Skills & Tools  
-
-**Languages & Core:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>  
-
-**Frameworks / Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-<img src="https://lavalust.netlify.app/_images/logo.png" width="20"/>
-
-> *Note: Still learning*
-
----
-
-## Currently Learning  
-**React.js** — Diving deeper into modern frontend development and component architecture.
-
----
-
-## Featured Projects
-
-**[Portfolio](https://leigabriel.vercel.app/)**  
-Personal showcase and design experiments.  
-
-**[Dental Booking Appointment System](https://github.com/leigabriel/dental-booking-appointment-system)**  
-A web-based system for managing dental appointments efficiently.   
-
----
-
-### Thanks for stopping by my profile!  
-Feel free to reach out or just say hi 👋
+**Portfolio:** [leigabriel.vercel.app](https://leigabriel.vercel.app/)  
