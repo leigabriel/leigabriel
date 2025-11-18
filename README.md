@@ -4,7 +4,7 @@
       
 ## Hi there 👋
 
-### I'm a *graphic designer, UI designer, and frontend developer*. Creating minimal, modern digital experiences. Interested in clean design and interactive interfaces. <br>
+I'm a **graphic designer, UI designer, and frontend developer**. Creating minimal, modern digital experiences. Interested in clean design and interactive interfaces. <br><br>
 \- *Currently learning **React.js** to build dynamic web applications.*
 
 ⚙️ **Tech & tools:**  
