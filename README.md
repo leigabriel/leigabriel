@@ -2,7 +2,7 @@
   <tr>
     <td width="70%" style="padding-left:20px;">
       
-## Hi there 👋
+### Hi there 👋
 
 I'm a **graphic designer, UI designer, and frontend developer**. Creating minimal, modern digital experiences. Interested in clean design and interactive interfaces. <br><br>
 \- *Currently learning **React.js** to build dynamic web applications.*
