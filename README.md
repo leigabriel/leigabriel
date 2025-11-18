@@ -1,5 +1,5 @@
 
-## Hi there 👋
+### Hi there 👋
 
 I'm a **graphic designer, ui designer, and frontend developer**. Creating minimal, modern digital experiences. Interested in about clean design and interactive interfaces. Currently learning **React.js** to build dynamic web applications.  
 
