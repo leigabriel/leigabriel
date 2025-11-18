@@ -1,6 +1,5 @@
 <table>
-  <tr>
-    <td width="70%" style="padding-left:20px;">
+    <td width="70%">
       
 ### Hi there 👋
 
@@ -13,9 +12,8 @@ html, css, javascript, tailwindcss, react, lavalust
 
 📂 **Portfolio:** [leigabriel.vercel.app](https://leigabriel.vercel.app/)
     </td>
-    <td width="30%" align="center" style="padding:0;">
+    <td width="30%" align="center">
       <img src="bee.png"
            style="width:100%; height:100%; object-fit:contain; display:block;" />
     </td>
-  </tr>
 </table>
