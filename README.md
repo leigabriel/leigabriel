@@ -10,7 +10,7 @@ I'm a **graphic designer, UI designer, and frontend developer**. Creating minima
 html, css, javascript, tailwindcss, react, lavalust  
 \- *Still learning.*
 
-📂 **Portfolio:** [leigabriel.vercel.app](https://leigabriel.vercel.app/)
+📂 **Portfolio:** [leimxnsquare.vercel.app](https://leigabriel.vercel.app/)
     </td>
     <td width="30%" align="center">
       <img src="bee.png"
