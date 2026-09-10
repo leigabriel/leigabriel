@@ -9,7 +9,7 @@ I'm a **graphic designer, UI designer, and frontend developer**. <br> Creating m
 📂 [leigabriel.vercel.app](https://leigabriel.vercel.app/)
     </td>
     <td width="30%" align="center">
-      <img src="bee.png"
+      <img src="me.jpg"
            style="width:100%; height:100%; object-fit:contain; display:block;" />
     </td>
 </table>
