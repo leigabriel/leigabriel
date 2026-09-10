@@ -3,14 +3,10 @@
       
 ### Hi there 👋
 
-I'm a **graphic designer, UI designer, and frontend developer**. Creating minimal, modern digital experiences. Interested in clean design and interactive interfaces. <br><br>
-\- *Currently learning **React.js** to build dynamic web applications.*
+I'm a **graphic designer, UI designer, and frontend developer**. <br> Creating minimal, modern digital experiences.
+<br>
 
-⚙️ **Tech & tools:**  
-html, css, javascript, tailwindcss, react, lavalust  
-\- *Still learning.*
-
-📂 **Portfolio:** [leimxnsquare.vercel.app](https://leigabriel.vercel.app/)
+📂 [leigabriel.vercel.app](https://leigabriel.vercel.app/)
     </td>
     <td width="30%" align="center">
       <img src="bee.png"
